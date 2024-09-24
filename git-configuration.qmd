@@ -31,9 +31,11 @@ use_git_config(user.name = "Dein Name", user.email = "Deine Email")
 
 6.  Klicke auf die Schaltfläche “Push”.
 
-7.  Gib deinen GitHub-Benutzernamen und deinen GitHub Personal Access Token (PAT) in die Felder "Username" und "Password" ein.
+7.  Gib deinen GitHub-Benutzernamen im Feld Username an.
 
-8.  Das Fenster kann geschlossen werden.
+8.  Gib deinen GitHub Personal Access Token (PAT) im Feld Password an.
+
+9.  Das Fenster kann geschlossen werden.
 
 **Wichtig:** Du musst den GitHub Personal Access Token (PAT) eingeben, den du in der Vorbereitung auf den Kurs erstellt hast um deine Änderungen zurück an GitHub zu übertragen.
 
