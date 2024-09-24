@@ -19,19 +19,21 @@ use_git_config(user.name = "Dein Name", user.email = "Deine Email")
 
 ## Übertrage deine Änderungen und speichere sie
 
-1.  Navigiere zum Git-Bereich im Fenster oben rechts
+1.  Navigiere zum Git-Bereich im Fenster oben rechts.
 
 2.  Aktiviere das Kontrollkästchen neben der Datei git-configuration.qmd, um sie für den Commit vorzubereiten.
 
-3.  Klicke auf die Schaltfläche “Commit”
+3.  Klicke auf die Schaltfläche “Commit”.
 
-4.  Gib eine Commit-Nachricht in das Feld “Commit Message” ein
+4.  Gib eine Commit-Nachricht in das Feld “Commit Message” ein (z.B. Git configuration abgeschlossen).
 
-5.  Klicke auf die Schaltfläche “Commit”
+5.  Klicke auf die Schaltfläche “Commit”. Das Fenster, welches sich daraufhin öffnet kann geschlossen werden.
 
-6.  Klicke auf die Schaltfläche “Push”
+6.  Klicke auf die Schaltfläche “Push”.
 
 7.  Gib deinen GitHub-Benutzernamen und deinen GitHub Personal Access Token (PAT) in die Felder "Username" und "Password" ein.
+
+8.  Das Fenster kann geschlossen werden.
 
 **Wichtig:** Du musst den GitHub Personal Access Token (PAT) eingeben, den du in der Vorbereitung auf den Kurs erstellt hast um deine Änderungen zurück an GitHub zu übertragen.
 
