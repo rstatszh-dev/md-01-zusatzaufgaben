@@ -43,7 +43,7 @@ use_git_config(user.name = "Dein Name", user.email = "Deine Email")
 
 1.  Öffne [github.com](https://github.com/) in deinem Browser.
 
-2.  Navigiere zur GitHub-Organisation für den Kurs: [github.com/rstatszh-k009](https://github.com/rstatszh-k009)
+2.  Navigiere zur GitHub-Organisation für den Kurs: [github.com/rstatszh-k011](https://github.com/rstatszh-k011)
 
 3.  Finde das Repository git-configuration-BENUTZERNAME, das mit deinem GitHub-Benutzernamen endet.
 
