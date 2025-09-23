@@ -1,5 +1,5 @@
 ---
-title: "Module 1 Zusatzaufgabe"
+title: "Modul 1 Zusatzaufgabe"
 format:
   html:
     embed-resources: true
@@ -10,7 +10,7 @@ editor: visual
 
 1.  Bearbeite den folgenden Code-Abschnitt und ersetze die Platzhalter durch deinen Namen und deine E-Mail-Adresse (anhand dieser Daten wird Git dich identifizieren, wenn du Änderungen vornimmst und diese gespeichert werden). **Beachte:** Die Anführungszeichen müssen beibehalten werden.
 
-2.  Render das Dokument in dem du auf den "Render" Button klickst.
+2.  Render das Dokument, indem du auf den "Render"-Button klickst.
 
 ```{r}
 library(usethis)
@@ -27,7 +27,7 @@ use_git_config(user.name = "Dein Name", user.email = "Deine Email")
 
 4.  Gib eine Commit-Nachricht in das Feld “Commit Message” ein (z.B. Git configuration abgeschlossen).
 
-5.  Klicke auf die Schaltfläche “Commit”. Das Fenster, welches sich daraufhin öffnet kann geschlossen werden.
+5.  Klicke auf die Schaltfläche "Commit". Das Fenster, welches sich daraufhin öffnet, kann geschlossen werden.
 
 6.  Klicke auf die Schaltfläche “Push”.
 
@@ -37,7 +37,7 @@ use_git_config(user.name = "Dein Name", user.email = "Deine Email")
 
 9.  Das Fenster kann geschlossen werden.
 
-**Wichtig:** Du musst den GitHub Personal Access Token (PAT) eingeben, den du in der Vorbereitung auf den Kurs erstellt hast um deine Änderungen zurück an GitHub zu übertragen.
+**Wichtig:** Du musst den GitHub Personal Access Token (PAT) eingeben, den du in der Vorbereitung auf den Kurs erstellt hast, um deine Änderungen zurück an GitHub zu übertragen.
 
 ## Eröffne ein Issue auf GitHub
 
@@ -53,4 +53,4 @@ use_git_config(user.name = "Dein Name", user.email = "Deine Email")
 
 6.  Schreibe in das Feld "Title": "Git configuration abgeschlossen".
 
-7.  Markiere im Feld "Leave a comment" den Kursleiter mit @larnsce und hiterlasse eine Nachricht oder offene Frage.
+7.  Markiere im Feld "Leave a comment" den Kursleiter mit @larnsce und hinterlasse eine Nachricht oder offene Frage.
